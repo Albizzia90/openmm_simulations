@@ -38,10 +38,13 @@ For phase diagram, we mainly need to judge if PS happened and if the two phases 
 To get the density profile, make the density centralized in the slab for each frame, then accumlate the density profiles to get the average profile. This process is shown in 'densityProfile.ipynb'
 
 Use tanh function to fit the average density profile and get the dilute and dense density. The code is shown in 'densityProfile.ipynb'
+
 ![alt text](https://github.com/Albizzia90/openmm_simulations/blob/main/PS_analyze/densZ_fit.png?raw=true)
 
 Near the critical temperature, record about 5 pairs of temperature-density data points, fit to get the critical temperature and density. The process is shown in 'phaseDiagram.ipynb'
+
 ![alt text](https://github.com/Albizzia90/openmm_simulations/blob/main/PS_analyze/phaseDiag_dens.png?raw=true)
+
 # *Viscosity (todo)
 
 
