@@ -41,7 +41,7 @@ Use tanh function to fit the average density profile and get the dilute and dens
 ![alt text](https://github.com/Albizzia90/openmm_simulations/blob/main/PS_analyze/densZ_fit.png?raw=true)
 
 Near the critical temperature, record about 5 pairs of temperature-density data points, fit to get the critical temperature and density. The process is shown in 'phaseDiagram.ipynb'
-![alt text](https://github.com/Albizzia90/openmm_simulations/blob/main/PS_analyze/phaseDiag_dens_fit.png?raw=true)
+![alt text](https://github.com/Albizzia90/openmm_simulations/blob/main/PS_analyze/phaseDiag_dens.png?raw=true)
 # *Viscosity (todo)
 
 
