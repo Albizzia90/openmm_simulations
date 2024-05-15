@@ -39,11 +39,13 @@ To get the density profile, make the density centralized in the slab for each fr
 
 Use **tanh()** function to fit the average density profile and get the dilute and dense density. The code is shown in **'densityProfile.ipynb'**
 
-![An example of density profile of GY-23](https://github.com/Albizzia90/openmm_simulations/blob/main/PS_analyze/densZ_fit.png?raw=true)
+![densProf](https://github.com/Albizzia90/openmm_simulations/blob/main/PS_analyze/densZ_fit.png?raw=true)
+*An example of density profile of GY-23*
 
 Near the critical temperature, record about 5 pairs of temperature-density data points, fit to get the critical temperature and density. The process is shown in **'phaseDiagram.ipynb'**
 
-![An example of phase diagram of GY-23 and it variant](https://github.com/Albizzia90/openmm_simulations/blob/main/PS_analyze/phaseDiag_dens.png?raw=true)
+![phaseDiag](https://github.com/Albizzia90/openmm_simulations/blob/main/PS_analyze/phaseDiag_dens.png?raw=true)
+An example of phase diagram of GY-23 and it variant*
 
 # *Viscosity (todo)
 
